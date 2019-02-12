@@ -1,0 +1,24 @@
+h1 {
+  text-align: center;
+  font-family: Indie Flower, sans-serif;
+  color: yellow;
+  font-size: 100px;
+}
+
+body {
+  background-image: url("https://www.surfertoday.com/images/stories/surfetiquette.jpg");
+}
+
+h2 {
+  font-family: Hanalei Fill, sans-serif;
+  color: yellowgreen;
+  text-align: center;
+}
+
+img {
+  float: left;
+  width: 200px;
+  height: 200px;
+  margin: 20px;
+  text-align: bottom;
+}
